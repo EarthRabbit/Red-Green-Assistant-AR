@@ -7,6 +7,7 @@ Helping color-deficient(especially, for protanopia) with AR
 
 # Description
  People with protanopia do not perceive red as red; instead, they see it as yellow or dark. In severe cases, they may have difficulty distinguishing between colors.
+ 
  In this case, I aim to create a model that enhances visual perception by replacing red regions with a distinguishable green color ([0, 255, 0]) and outlining those areas with borders, making them easier for people to recognize.
 
 ## How?
